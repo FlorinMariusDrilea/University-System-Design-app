@@ -5,15 +5,15 @@ Java application (a small university software)
 
 # Base accounts
 
-Admin
+Admin- 
 AdminT21af
 AGrobustAd1
 
-Registrat
+Registrar- 
 RegistT21ag
 AFsolidReg1
 
-Teacher
+Teacher- 
 TeacheRt21AG
 afsecureTEACH1
 
